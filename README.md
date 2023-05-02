@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 #Explorer #Learner
+🔭 #Explorer #Learner <br>
 🌱I am currently studing about Data Science.<br>
 🤝 You can ask me about Python, Data Science or libraries related to Machine Learning .<br>
 📫 Reach me at [magiciandeepakgupta@gmail.com](mailto:magiciandeepakgupta@gmail.com).<br>
