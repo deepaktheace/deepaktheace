@@ -2,7 +2,7 @@
 🔭 #Explorer #Learner
 🌱I am currently studing about Data Science.<br>
 🤝 You can ask me about Python, Data Science or libraries related to Machine Learning .<br>
-📫 Reach me at [magiciandeepakgupta@gmail.com](mailto:magiciandeepakgupta@gmail.com)
+📫 Reach me at [magiciandeepakgupta@gmail.com](mailto:magiciandeepakgupta@gmail.com).<br>
 ⚡I like to read and perform magic 
 
 
